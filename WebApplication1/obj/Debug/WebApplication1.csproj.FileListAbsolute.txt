@@ -1,0 +1,9 @@
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\bin\WebApplication1.dll
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Faten Elhariry\Source\repos\WebServices\WebApplication1\obj\Debug\WebApplication1.pdb
